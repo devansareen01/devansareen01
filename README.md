@@ -1,6 +1,6 @@
 ![MasterHead](https://imgs.search.brave.com/RjD9QPo94xYP0JauH8KHLVTcbQ-4G7DhGKrQtByPwSk/rs:fit:1200:675:1/g:ce/aHR0cHM6Ly9pLmtp/bmphLWltZy5jb20v/Z2F3a2VyLW1lZGlh/L2ltYWdlL3VwbG9h/ZC9zLS1UZU9zR2Ey/ei0tL2NfZmlsbCxm/X2F1dG8sZmxfcHJv/Z3Jlc3NpdmUsZ19j/ZW50ZXIsaF82NzUs/cV84MCx3XzEyMDAv/cHdsOW13ZzBxdTV2/ZGFnd3N0ZGUuZ2lm.gif)
 
-<h1 align="center">Hi 👋, I'm Ritik Anand</h1>
+<h1 align="center">Hi 👋, I'm Devan Sareen</h1>
 <h3 align="center">A passionate upcoming developer from India</h3>
 
 <img align="center" width="450"  src="https://imgs.search.brave.com/HFIdCLRhcKgrDzchsw2DzedMenYnxNElHN-dWrC8ltY/rs:fit:680:428:1/g:ce/aHR0cHM6Ly93d3cu/Y29kZWNvcm5lcnMu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDE4LzA1L3Nlbmlv/ci1mcm9udC1lbmQt/ZGV2ZWxvcGVyLW9w/ZW5pbmdzLTEuZ2lm.gif">
